@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+groq
+faiss-cpu
+pymupdf
+sentence-transformers
+torch
+transformers
+streamlit
+python-dotenv
+tqdm
